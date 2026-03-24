@@ -21,11 +21,13 @@ IntelliMatch ATS is an Enterprise-Grade Natural Language Processing (NLP) applic
 * **Interactive Analytics:** Generates dynamic Plotly charts comparing candidate profiles.
 
 ## ⚙️ Installation & Usage
-git clone https://github.com/your-username/AI-Resume-Ranker.git
+```bash
+git clone [https://github.com/your-username/AI-Resume-Ranker.git](https://github.com/your-username/AI-Resume-Ranker.git)
 cd AI-Resume-Ranker
 pip install -r requirements.txt
 streamlit run app.py
 
+```
 ## 👨‍💻 Author
 **Md Salman Farsi**
 * **Role:** AI & ML Intern @ Elevate Labs | B.Tech CS (AI & ML)
