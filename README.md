@@ -1,2 +1,29 @@
-# AI-Resume-Ranker
-An enterprise-grade AI Resume Ranker powered by NLP (TF-IDF &amp; Cosine Similarity) that automatically scores candidates against job descriptions.
+# 📄 IntelliMatch ATS - AI Resume Ranker
+
+![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-Framework-FF4B4B.svg)
+![NLP](https://img.shields.io/badge/NLP-TF--IDF-green.svg)
+![Scikit-Learn](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange.svg)
+
+## 🚀 Project Overview
+IntelliMatch ATS is an Enterprise-Grade Natural Language Processing (NLP) application engineered to automate the recruiter screening process. It ingests raw candidate resumes and compares them against target Job Descriptions (JDs), providing an instant, mathematically backed compatibility score. 
+
+*Developed as part of the AI & ML Internship at Elevate Labs.*
+
+## 🧠 System Architecture & Methodology
+1. **Text Preprocessing:** Cleans and normalizes raw text data from resumes and JDs.
+2. **Vectorization (TF-IDF):** Converts textual data into numerical feature vectors using Term Frequency-Inverse Document Frequency, giving weight to highly relevant industry keywords.
+3. **Similarity Engine:** Calculates the Cosine Similarity between the resume vector and the JD vector to determine the exact multidimensional distance (match percentage) between the candidate's skills and the job requirements.
+
+## 🔥 Key Features
+* **Smart Parsing:** Extracts and analyzes key skills efficiently.
+* **Algorithmic Match Scoring:** Calculates a real-time compatibility percentage.
+* **Interactive Analytics:** Generates dynamic Plotly charts comparing candidate profiles.
+* **Clean UI:** Built with Streamlit for a seamless, dark-mode user experience.
+
+## ⚙️ Installation & Usage
+```bash
+git clone [https://github.com/your-username/AI-Resume-Ranker.git](https://github.com/your-username/AI-Resume-Ranker.git)
+cd AI-Resume-Ranker
+pip install -r requirements.txt
+streamlit run app.py
