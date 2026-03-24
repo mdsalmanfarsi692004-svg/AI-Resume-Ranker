@@ -5,6 +5,10 @@
 ![NLP](https://img.shields.io/badge/NLP-TF--IDF-green.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange.svg)
 
+## Live App Link:
+
+https://intellimatch-resume-ranker.streamlit.app/
+
 ## 🚀 Project Overview
 IntelliMatch ATS is an Enterprise-Grade Natural Language Processing (NLP) application engineered to automate the recruiter screening process. It ingests raw candidate resumes and compares them against target Job Descriptions (JDs), providing an instant, mathematically backed compatibility score. 
 
