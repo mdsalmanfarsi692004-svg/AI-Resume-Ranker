@@ -12,28 +12,24 @@ IntelliMatch ATS is an Enterprise-Grade Natural Language Processing (NLP) applic
 
 ## 🧠 System Architecture & Methodology
 1. **Text Preprocessing:** Cleans and normalizes raw text data from resumes and JDs.
-2. **Vectorization (TF-IDF):** Converts textual data into numerical feature vectors using Term Frequency-Inverse Document Frequency, giving weight to highly relevant industry keywords.
-3. **Similarity Engine:** Calculates the Cosine Similarity between the resume vector and the JD vector to determine the exact multidimensional distance (match percentage) between the candidate's skills and the job requirements.
+2. **Vectorization (TF-IDF):** Converts textual data into numerical feature vectors using Term Frequency-Inverse Document Frequency.
+3. **Similarity Engine:** Calculates the Cosine Similarity between the resume vector and the JD vector to determine the match percentage.
 
 ## 🔥 Key Features
 * **Smart Parsing:** Extracts and analyzes key skills efficiently.
 * **Algorithmic Match Scoring:** Calculates a real-time compatibility percentage.
 * **Interactive Analytics:** Generates dynamic Plotly charts comparing candidate profiles.
-* **Clean UI:** Built with Streamlit for a seamless, dark-mode user experience.
 
 ## ⚙️ Installation & Usage
-```bash
-git clone [https://github.com/your-username/AI-Resume-Ranker.git](https://github.com/your-username/AI-Resume-Ranker.git)
+git clone https://github.com/your-username/AI-Resume-Ranker.git
 cd AI-Resume-Ranker
 pip install -r requirements.txt
 streamlit run app.py
 
-
-##👨‍💻 Author
-Md Salman Farsi
-
-B.Tech Computer Science (AI & ML)
-
-🌐 Portfolio: mdsalmanfarsi.io
-
-📧 Email: mdsalmanfarsi692004@gmail.com##
+## 👨‍💻 Author
+**Md Salman Farsi**
+* **Role:** AI & ML Intern @ Elevate Labs | B.Tech CS (AI & ML)
+* **Portfolio:** [mdsalmanfarsi.io](https://mdsalmanfarsi.io)
+* **Email:** [mdsalmanfarsi692004@gmail.com](mailto:mdsalmanfarsi692004@gmail.com)
+* **GitHub:** [https://github.com/mdsalmanfarsi692004-svg]
+* **LinkedIn:** [www.linkedin.com/in/md-salman-farsi-data-analyst]
