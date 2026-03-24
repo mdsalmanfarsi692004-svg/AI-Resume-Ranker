@@ -9,6 +9,14 @@
 
 https://intellimatch-resume-ranker.streamlit.app/
 
+## Screenshots
+
+## Main Dashboard
+<img width="1913" height="920" alt="Main Dashboard" src="https://github.com/user-attachments/assets/bd066480-9e5b-4c92-96c6-7adf6213da2f" />
+
+## Output
+<img width="1919" height="924" alt="Output" src="https://github.com/user-attachments/assets/6d8d8715-805f-4ed1-8c84-c5f170066c12" />
+
 ## 🚀 Project Overview
 IntelliMatch ATS is an Enterprise-Grade Natural Language Processing (NLP) application engineered to automate the recruiter screening process. It ingests raw candidate resumes and compares them against target Job Descriptions (JDs), providing an instant, mathematically backed compatibility score. 
 
