@@ -27,3 +27,13 @@ git clone [https://github.com/your-username/AI-Resume-Ranker.git](https://github
 cd AI-Resume-Ranker
 pip install -r requirements.txt
 streamlit run app.py
+
+
+##👨‍💻 Author
+Md Salman Farsi
+
+B.Tech Computer Science (AI & ML)
+
+🌐 Portfolio: mdsalmanfarsi.io
+
+📧 Email: mdsalmanfarsi692004@gmail.com##
